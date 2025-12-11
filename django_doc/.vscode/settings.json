@@ -1,0 +1,7 @@
+{
+    "python.terminal.activateEnvironment": true,
+    "python.defaultInterpreterPath": "C:\\Users\\Evgeniy\\Desktop\\VS Code\\practice\\django_doc\\.venv\\Scripts\\python.exe"
+}{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
+}
